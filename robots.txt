@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/penaril-penis-enlargement-capsules-reviews/sitemap.xml
+Sitemap: https://penaril-penis-enlargement-capsules-reviews.vercel.app/sitemap-vercel.xml
+Sitemap: https://penaril-penis-enlargement-capsules-reviews.pages.dev/sitemap-cloudflare.xml
